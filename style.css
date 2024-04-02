@@ -1,0 +1,23 @@
+# {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #24252a;
+    box-shadow: 0 3px 10px #464646;
+    height: 5rem;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+header h1 {
+    color: #fff;
+    text-align: center;
+}
+
+main{
+    margin-top: 7rem;
+}
